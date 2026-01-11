@@ -6,7 +6,6 @@ such as temperature and currency conversion.
 
 ## Features
 - Length conversion (meters, feet, km, miles)
-- Clean folder structure
 - Web and Android compatible
 
 ## Tech Stack
