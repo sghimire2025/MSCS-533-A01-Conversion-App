@@ -22,3 +22,13 @@ such as temperature and currency conversion.
 ```bash
 flutter pub get
 flutter run
+```
+## Test Screenshots
+- Running on Web (Edge Browser)
+![running_on_web_edge_browser](/screenshots/running_on_web.png)
+
+- Running on Pixel 6a Emulator
+![running_on_android](/screenshots/running_on_android_pixel_6a.png)
+![running_on_android](/screenshots/running_on_andriod.png)
+![running_on_android](/screenshots/android_screenshot.png)
+
